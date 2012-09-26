@@ -1,0 +1,76 @@
+= タイトル
+東京Ruby会議10ではレポート班を募集しています
+
+# : subtitle
+#    サブタイトル
+: author
+   hokkai7go
+: institution
+   株式会社 万葉 
+: content-source
+   Shinjuku.rb 
+: date
+   2012/09/26
+: allotted-time
+   5m
+: theme
+   default
+
+
+= 提供 
+  # image
+  # src = everyleaf_logo.png
+  # relative_height = 75
+
+= 提供
+
+  # image
+  # src = tokyo10.png
+  # relative_height = 85
+
+= スープカレー
+  # image
+  # src = soupcurry.jpeg
+
+= 札幌Ruby会議2012
+  # image
+  # src = sekkyou.jpeg
+
+= 札幌Ruby会議2012
+  # image
+  # src = sekkyou2.jpeg
+
+= Heroku弁当
+  # image
+  # src = heroku_bento.jpeg
+
+= sprk2012 report
+  # image
+  # src = sprk2012_report.png
+
+= sprk2012 report
+ http://gihyo.jp/news/report/01/sapporo-rubykaigi2012/
+
+= 東京Ruby会議10
+  #image
+  # src = tokyo10_report.png 
+
+= 東京Ruby会議のレポート班募集中
+  #image
+  # src = tokyo10_report.png 
+  # relative_height = 85
+
+= レポート班への申し込み
+  #image
+  # src = tokyo10_report_kokuchi.png
+  # relative_height = 85
+= レポート班への申し込み
+  #image
+  # src = tokyo10_report_kokuchi1.png
+  # relative_height = 85
+
+#= 二番目のスライド
+
+  # image
+  # src = https://raw.github.com/rabbit-shocker/rabbit/master/sample/lavie.png
+  # relative_height = 100
