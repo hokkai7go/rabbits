@@ -1,29 +1,85 @@
 = タイトル
+東京Ruby会議10レポート班へようこそ！
 
 # : subtitle
 #    サブタイトル
 : author
    hokkai7go
-# : institution
-#    所属
-# : content-source
-#    イベント名
-# : date
-#    2012/11/14
-# : allotted-time
-#    5m
-# : theme
-#    default
+: institution
+   株式会社 万葉 
+: content-source
+   東京Ruby会議10
+: date
+   2012/11/16
+: allotted-time
+   5m
+: theme
+   default
 
-
-= 最初のスライド
-
-  * 項目1
-  * 項目2
-  * 項目3
-
-= 二番目のスライド
+= 提供
 
   # image
-  # src = https://raw.github.com/rabbit-shocker/rabbit/master/sample/lavie.png
-  # relative_height = 100
+  # src = tokyo10.png
+  # relative_height = 85
+
+= アジェンダ
+*レポート班のお仕事
+**レポートの種類
+**過去のレポート紹介
+**レポートを書く環境
+**当日と会期後の流れ
+
+= レポート班のお仕事
+今回は、るびまに東京Ruby会議10の開催レポートを書くこと
+
+= レポートの種類
+*るびま
+*技術評論社さん
+
+
+= 過去のレポート紹介
+*札幌Ruby会議03
+*大江戸Ruby会議01
+*Ruby会議2011
+*みなとRuby会議01
+
+= 札幌Ruby会議03
+#実際にどんなものか表示して、読みあげてみること
+  # image
+  # src = sprk03.png
+  # relative_height = 60
+
+= 大江戸Ruby会議01
+  # image
+  # src = odrk01.png
+  # relative_height = 60
+
+= Ruby会議2011
+  # image
+  # src = rubykaigi2011.png
+  # relative_height = 75
+
+= みなとRuby会議01
+  # image
+  # src = minato01.png
+  # relative_height = 60
+
+= 札幌Ruby会議2012
+  # image
+  # src = sprk2012.png
+  # relative_height = 75
+
+= レポートを書く環境
+*テキストエディタ
+*Dropbox
+*Skype or IRC
+
+*ネットワークが必須ではない
+
+= 当日と会期後の流れ
+*当日:メモ取り
+できれば記事の体裁(Hiki)まで
+*会期中:記事化
+*会期後の早いうち:記事化終了
+内容やニュアンスを忘れてしまうのでできるだけ早い方がいい
+
